@@ -1,0 +1,12 @@
+2023/08/08-00:37:59.608 44a8 Reusing MANIFEST C:\Kerja\BotShopee\bin\Debug\BotShopee.exe.WebView2\EBWebView\Default\IndexedDB\https_shopee.co.id_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/08-00:37:59.608 44a8 Recovering log #15
+2023/08/08-00:37:59.633 44a8 Reusing old log C:\Kerja\BotShopee\bin\Debug\BotShopee.exe.WebView2\EBWebView\Default\IndexedDB\https_shopee.co.id_0.indexeddb.leveldb/000015.log 
+2023/08/08-00:45:53.063 79bc Level-0 table #20: started
+2023/08/08-00:45:53.084 79bc Level-0 table #20: 1916730 bytes OK
+2023/08/08-00:45:53.086 79bc Delete type=0 #15
+2023/08/08-00:45:57.852 39c0 Compacting 1@1 + 1@2 files
+2023/08/08-00:45:57.868 39c0 Generated table #21@1: 1618 keys, 114534 bytes
+2023/08/08-00:45:57.868 39c0 Compacted 1@1 + 1@2 files => 114534 bytes
+2023/08/08-00:45:57.869 39c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/08-00:45:57.869 39c0 Delete type=2 #17
+2023/08/08-00:45:57.869 39c0 Delete type=2 #20
